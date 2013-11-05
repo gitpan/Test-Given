@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Test-Given
-version:            0.3.0
+version:            0.3.0_01
 abstract:           Given/When/Then style testing for Perl.
 author:
     - Robert Juliano <rovjuvano@gmail.com>
